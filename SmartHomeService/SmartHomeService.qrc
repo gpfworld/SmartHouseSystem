@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/air_off.png</file>
+        <file>image/air_on.png</file>
+        <file>image/curtain_off.png</file>
+        <file>image/curtain_on.png</file>
+        <file>image/dev_info.txt</file>
+        <file>image/fan_off.png</file>
+        <file>image/fan_on.png</file>
+        <file>image/lampImage.png</file>
+        <file>image/lampoffbtn.png</file>
+        <file>image/lamponbtn.png</file>
+        <file>image/leftArrow.png</file>
+        <file>image/light_off.png</file>
+        <file>image/light_on.png</file>
+        <file>image/rightArrow.png</file>
+    </qresource>
+</RCC>
